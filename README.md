@@ -1,9 +1,7 @@
 # face_detection_using-opencv
 
 
-This is a simple Face Detection web app.
-Here it just detects the faces in the given image.
-I am using flask as it is convinient and very handy. Here the user can upload the image and it gets stored in a foldercalled uploads. Then the model detects the faces in the uploaded image and stores the result in prediction folder.
+This is a simple Face Detection web app.Here it just detects the faces in the given image. I am using flask as it is convenient and very handy. Here the user can upload the image and it gets stored in a folder called uploads. Then the model detects the faces in the uploaded image and stores the result in prediction folder.
 
 <br/><br/><br/>
 
